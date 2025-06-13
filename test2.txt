@@ -1,2 +1,2 @@
 This is for test3
-Entering this text for git rebase
+Entering this text to test got rebase
