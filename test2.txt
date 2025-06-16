@@ -1,2 +1,0 @@
-This is for test3
-This also I am entering for git rebase.
