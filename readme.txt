@@ -1,3 +1,5 @@
+npm install --svae-dev webpack webpack-cli  #install webpack
+
 npm run build      # Creates dist/bundle.js
 npm run start      # Runs original source code
 
